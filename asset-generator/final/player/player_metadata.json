@@ -1,0 +1,56 @@
+{
+  "character": "player",
+  "style": "I (카툰+웹툰 v2)",
+  "frameSize": 256,
+  "motions": [
+    {
+      "name": "idle",
+      "label": "대기",
+      "frameCount": 4,
+      "spriteSheet": "player_idle.png",
+      "row": 0
+    },
+    {
+      "name": "punch_left",
+      "label": "왼손 펀치",
+      "frameCount": 4,
+      "spriteSheet": "player_punch_left.png",
+      "row": 1
+    },
+    {
+      "name": "punch_right",
+      "label": "오른손 펀치",
+      "frameCount": 4,
+      "spriteSheet": "player_punch_right.png",
+      "row": 2
+    },
+    {
+      "name": "kick_front",
+      "label": "정면 킥",
+      "frameCount": 4,
+      "spriteSheet": "player_kick_front.png",
+      "row": 3
+    },
+    {
+      "name": "kick_side",
+      "label": "옆차기",
+      "frameCount": 4,
+      "spriteSheet": "player_kick_side.png",
+      "row": 4
+    },
+    {
+      "name": "hit",
+      "label": "피격",
+      "frameCount": 3,
+      "spriteSheet": "player_hit.png",
+      "row": 5
+    }
+  ],
+  "fullSheet": {
+    "file": "player_spritesheet.png",
+    "cols": 4,
+    "rows": 6,
+    "width": 1024,
+    "height": 1536
+  }
+}

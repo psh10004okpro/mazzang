@@ -1,0 +1,31 @@
+맞짱로 에셋 최종 리포트
+생성일: 2026-03-29T11:41:24.073Z
+
+  주인공 (player)                           8파일    861.5 KB
+  잡졸 (enemies)                          20파일      4.5 MB
+  보스 (bosses)                           20파일      1.7 MB
+  수련 도구 (tools)                          1파일    220.1 KB
+  배경-배틀 (backgrounds/battle)            23파일      1.9 MB
+  배경-씬 (backgrounds/scene)              23파일      2.5 MB
+  장비 외형 (equipment)                     20파일      2.8 MB
+  이펙트 (ui/effects)                       4파일    285.3 KB
+  아이콘 (ui/icons)                         6파일     17.3 KB
+  버튼 (ui/buttons)                        3파일      9.5 KB
+─────────────────────────────────────
+  합계: 128파일, 14.8 MB
+
+폴더 구조:
+final/
+├── player/          주인공 스프라이트 시트
+├── enemies/         잡졸 20골목 스프라이트 시트
+├── bosses/          보스 20종 스프라이트 시트 + 카탈로그
+├── tools/           수련 도구 5등급 스프라이트 시트
+├── backgrounds/
+│   ├── battle/      배틀 배경 (캐릭터 없음)
+│   └── scene/       씬 일러스트 (캐릭터+배경)
+├── equipment/       장비 외형 20종 스프라이트 시트 + 카탈로그
+├── ui/
+│   ├── effects/     타격 이펙트 스프라이트 시트
+│   ├── icons/       상태 아이콘
+│   └── buttons/     버튼 에셋
+└── asset-manifest.json

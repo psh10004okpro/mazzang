@@ -1,0 +1,47 @@
+{
+  "category": "tools",
+  "assets": [
+    {
+      "name": "tool_wooden_board",
+      "prompt": "simple wooden training board, slightly cracked, basic martial arts breaking board, light brown wood color, game item icon",
+      "frames": 3,
+      "size": "48x48",
+      "note": "1등급 수련도구, 내구도 낮음, x1.0 배율"
+    },
+    {
+      "name": "tool_sandbag",
+      "prompt": "red leather punching sandbag hanging from chain, worn and patched, martial arts gym equipment, game item icon",
+      "frames": 3,
+      "size": "64x80",
+      "note": "2등급 수련도구, x1.5 배율"
+    },
+    {
+      "name": "tool_wooden_dummy",
+      "prompt": "traditional wooden wing chun training dummy (mok yan jong), three wooden arms, standing on post, martial arts equipment, game item icon",
+      "frames": 3,
+      "size": "64x80",
+      "note": "3등급 목인장, x2.5 배율"
+    },
+    {
+      "name": "tool_iron_dummy",
+      "prompt": "iron metal training dummy, dark metallic sheen, reinforced joints, glowing heat marks from impacts, heavy industrial look, game item icon",
+      "frames": 3,
+      "size": "64x80",
+      "note": "4등급 철제 목인장, x4.0 배율"
+    },
+    {
+      "name": "tool_soul_dummy",
+      "prompt": "mystical glowing training dummy with spirit energy, ethereal blue-purple aura, ancient runes carved on surface, ghostly eyes, magical martial arts equipment, game item icon",
+      "frames": 4,
+      "size": "64x80",
+      "note": "5등급 영혼 깃든 목인장, x6.0 배율, 반격 판정 있음"
+    },
+    {
+      "name": "tool_breaking_effect",
+      "prompt": "wooden board shattering into pieces, explosion of wood splinters, breaking impact effect, dynamic destruction",
+      "frames": 5,
+      "size": "64x64",
+      "note": "도구 파괴 연출 이펙트"
+    }
+  ]
+}

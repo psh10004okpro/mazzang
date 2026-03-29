@@ -1,0 +1,69 @@
+{
+  "category": "backgrounds",
+  "assets": [
+    {
+      "name": "bg_training_room",
+      "prompt": "small Korean rooftop training area, concrete floor, hanging sandbag, old tire, city skyline in background, afternoon sunlight, urban gym atmosphere",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "수련 씬 기본 배경"
+    },
+    {
+      "name": "bg_alley_map",
+      "prompt": "bird's eye view of Korean urban neighborhood map, winding alleys between buildings, neon signs, market stalls, stylized game map view, colorful districts",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "골목 맵 씬 배경"
+    },
+    {
+      "name": "bg_alley_early",
+      "prompt": "narrow Korean back alley, old brick walls, hanging laundry, flickering street light, trash cans, daytime, beginner area feeling",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "초반 골목 (1~5) 배틀 배경"
+    },
+    {
+      "name": "bg_alley_mid",
+      "prompt": "wider Korean urban street at dusk, neon signs, shuttered shops, graffiti walls, tougher neighborhood atmosphere, orange sunset sky",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "중반 골목 (6~12) 배틀 배경"
+    },
+    {
+      "name": "bg_alley_late",
+      "prompt": "dark Korean industrial district at night, warehouse area, dim street lights, steam from vents, dangerous atmosphere, neon reflections on wet ground",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "후반 골목 (13~20) 배틀 배경"
+    },
+    {
+      "name": "bg_underground_arena",
+      "prompt": "underground fighting arena, circular concrete pit, harsh overhead spotlights, crowd silhouettes in darkness, chain-link fence around ring, gritty Baki-style atmosphere",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "지하 격투장 엔드콘텐츠 배경"
+    },
+    {
+      "name": "bg_upgrade_shop",
+      "prompt": "small Korean convenience store interior converted to training shop, shelves with equipment, warm fluorescent lighting, cozy but worn down",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "강화 씬 배경"
+    },
+    {
+      "name": "bg_master_dojo",
+      "prompt": "traditional Korean martial arts dojo interior, wooden floor, hanging scrolls, incense smoke, peaceful morning light through paper doors",
+      "frames": 1,
+      "size": "1024x576",
+      "aspectRatio": "16:9",
+      "note": "스승 기연 이벤트 배경"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "category": "bosses",
+  "assets": [
+    {
+      "name": "boss_alley_king",
+      "prompt": "alley boss, tall muscular man with scars, leather jacket open showing chest, arms crossed, dominant aura, gold chain necklace",
+      "frames": 4,
+      "size": "96x96"
+    },
+    {
+      "name": "boss_dojo_master",
+      "prompt": "martial arts dojo master, older man in worn gi, calm but deadly stance, grey streaked hair tied back, powerful forearms",
+      "frames": 4,
+      "size": "96x96"
+    },
+    {
+      "name": "boss_underground_champ",
+      "prompt": "underground fighting champion, heavily muscular, tape-wrapped fists, battle scars everywhere, cold eyes, shirtless with fighting shorts",
+      "frames": 4,
+      "size": "96x96"
+    },
+    {
+      "name": "boss_street_legend",
+      "prompt": "legendary street fighter, tall lean man in long coat, cigarette in mouth, relaxed but menacing stance, experienced veteran aura",
+      "frames": 4,
+      "size": "96x96"
+    },
+    {
+      "name": "boss_rival",
+      "prompt": "rival fighter same age as protagonist, mirror image build, black sleeveless hoodie, competitive fierce expression, fists clenched",
+      "frames": 4,
+      "size": "96x96"
+    },
+    {
+      "name": "boss_final",
+      "prompt": "final boss ultimate street king, massive imposing figure, crossed arms, aura of absolute power, traditional Korean martial arts attire modernized, intimidating calm expression",
+      "frames": 6,
+      "size": "128x128"
+    },
+    {
+      "name": "master_fist",
+      "prompt": "elderly fist martial arts master, wise old Korean man, simple clothes, small but powerful build, mentor figure, kind eyes with hidden strength",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "master_kick",
+      "prompt": "kick technique master, middle-aged Korean woman in martial arts uniform, one leg raised in stance, stern but fair expression",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "master_dodge",
+      "prompt": "old hermit dodge master, thin elderly Korean man with long beard, staff in hand, mysterious wanderer look, serene expression",
+      "frames": 3,
+      "size": "64x64"
+    }
+  ]
+}

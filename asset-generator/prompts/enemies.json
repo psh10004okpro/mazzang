@@ -1,0 +1,47 @@
+{
+  "category": "enemies",
+  "assets": [
+    {
+      "name": "thug_basic",
+      "prompt": "basic street punk, slouching posture, tank top and loose pants, weak looking but aggressive, sneering face",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_bat",
+      "prompt": "thug holding a wooden baseball bat over shoulder, bandana on head, threatening stance",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_chain",
+      "prompt": "burly thug with a chain wrapped around fist, leather vest, mohawk, intimidating build",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_knife",
+      "prompt": "quick agile thug in hoodie, crouching with a small knife, sneaky and dangerous",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_heavy",
+      "prompt": "large heavy-set brawler, massive arms, shaved head, bouncer type, cracking knuckles",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_kickboxer",
+      "prompt": "lean kickboxer in fighting stance, wrapped hands, focused expression, gym clothes",
+      "frames": 3,
+      "size": "64x64"
+    },
+    {
+      "name": "thug_wrestler",
+      "prompt": "muscular grappler in wrestling stance, thick neck, sleeveless shirt, ready to grab",
+      "frames": 3,
+      "size": "64x64"
+    }
+  ]
+}

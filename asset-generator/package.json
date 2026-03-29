@@ -1,0 +1,23 @@
+{
+  "name": "mazzang-asset-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx generate.ts",
+    "generate:category": "tsx generate.ts --category",
+    "generate:single": "tsx generate.ts --single",
+    "sprites": "tsx generate.ts --sprites",
+    "process": "tsx generate.ts --process"
+  },
+  "dependencies": {
+    "openai": "^4.86.0",
+    "sharp": "^0.33.5",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

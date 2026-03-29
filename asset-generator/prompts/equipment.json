@@ -1,0 +1,89 @@
+{
+  "category": "equipment",
+  "assets": [
+    {
+      "name": "icon_punch",
+      "prompt": "clenched fist icon, powerful punch symbol, orange-red glow, game stat icon, clean design",
+      "frames": 1,
+      "size": "48x48",
+      "note": "펀치 스텟 아이콘"
+    },
+    {
+      "name": "icon_kick",
+      "prompt": "kicking leg icon, dynamic kick symbol, blue glow, game stat icon, clean design",
+      "frames": 1,
+      "size": "48x48",
+      "note": "킥 스텟 아이콘"
+    },
+    {
+      "name": "icon_health",
+      "prompt": "heart with pulse line icon, red health symbol, glowing, game stat icon, clean design",
+      "frames": 1,
+      "size": "48x48",
+      "note": "체력 스텟 아이콘"
+    },
+    {
+      "name": "icon_dodge",
+      "prompt": "eye with motion lines icon, dynamic vision symbol, green glow, game stat icon, clean design",
+      "frames": 1,
+      "size": "48x48",
+      "note": "동체시력 스텟 아이콘"
+    },
+    {
+      "name": "icon_sparring",
+      "prompt": "two crossed fists icon, sparring partner symbol, yellow glow, game stat icon, clean design",
+      "frames": 1,
+      "size": "48x48",
+      "note": "스파링 스텟 아이콘"
+    },
+    {
+      "name": "icon_gold",
+      "prompt": "shiny gold coin with Korean won symbol, stacked coins, game currency icon, golden sparkle",
+      "frames": 1,
+      "size": "48x48",
+      "note": "골드 화폐 아이콘"
+    },
+    {
+      "name": "icon_gem",
+      "prompt": "brilliant blue diamond gem, sparkling facets, premium currency icon, glowing blue, game jewel",
+      "frames": 1,
+      "size": "48x48",
+      "note": "보석 프리미엄 화폐 아이콘"
+    },
+    {
+      "name": "icon_title_badge",
+      "prompt": "golden badge with laurel wreath, champion title emblem, game achievement icon, prestigious medal",
+      "frames": 1,
+      "size": "48x48",
+      "note": "칭호 뱃지 아이콘"
+    },
+    {
+      "name": "icon_prestige",
+      "prompt": "ascending star with circular arrow, rebirth symbol, purple-gold prestige icon, game reset emblem",
+      "frames": 1,
+      "size": "48x48",
+      "note": "프레스티지 아이콘"
+    },
+    {
+      "name": "effect_hit_impact",
+      "prompt": "comic book style impact burst effect, POW explosion, dynamic hit splash, yellow and white starburst",
+      "frames": 4,
+      "size": "64x64",
+      "note": "타격 이펙트"
+    },
+    {
+      "name": "effect_level_up",
+      "prompt": "upward arrow with sparkles and energy burst, level up effect, golden particles rising, game power up visual",
+      "frames": 5,
+      "size": "64x64",
+      "note": "강화/레벨업 이펙트"
+    },
+    {
+      "name": "effect_dodge_afterimage",
+      "prompt": "transparent ghostly afterimage silhouette, motion blur dodge effect, fading duplicate figure, speed lines",
+      "frames": 3,
+      "size": "64x64",
+      "note": "회피 잔상 이펙트"
+    }
+  ]
+}

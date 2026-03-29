@@ -1,0 +1,77 @@
+{
+  "category": "player",
+  "assets": [
+    {
+      "name": "player_idle",
+      "prompt": "Fighting stance with fists up near chin, ready to fight, confident expression.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_punch_left",
+      "prompt": "Throwing a RIGHT arm jab punch, RIGHT fist extended forward at shoulder height, LEFT fist guarding chin.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_punch_right",
+      "prompt": "Throwing a LEFT arm cross punch, LEFT fist extended forward at shoulder height, RIGHT fist guarding chin.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_kick_front",
+      "prompt": "Executing a front kick, RIGHT leg extended forward at waist height, LEFT foot planted, arms up for guard.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_kick_side",
+      "prompt": "Executing a side kick, RIGHT leg extended sideways at chest height, LEFT foot planted, arms spread for balance.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_kick_back",
+      "prompt": "Executing a spinning back kick, body rotated, RIGHT leg extended behind at high height, powerful spinning motion.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_walk",
+      "prompt": "Walking forward confidently, casual stride, arms swaying naturally.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_hurt",
+      "prompt": "Getting hit and recoiling backward, pain expression, body leaning back from impact, sweat drops.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_dodge",
+      "prompt": "Dodging an attack, leaning back with fast reflexes, dynamic evasion pose.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_victory",
+      "prompt": "Victory celebration, one fist pumped up in the air, big happy triumphant grin.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_defeat",
+      "prompt": "Knocked down on one knee, exhausted, bruised but still defiant look.",
+      "frames": 1,
+      "size": "64x64"
+    },
+    {
+      "name": "player_training",
+      "prompt": "Hitting a sandbag with focused intensity, one fist striking the bag, training hard.",
+      "frames": 1,
+      "size": "64x64"
+    }
+  ]
+}
