@@ -4,6 +4,9 @@ import { compression } from "vite-plugin-compression2";
 import { visualizer } from "rollup-plugin-visualizer";
 
 export default defineConfig(({ mode }) => ({
+  // 👇 이 줄을 반드시 추가해야 합니다! (저장소 이름이 mazzang이므로)
+  base: "/mazzang/", 
+
   plugins: [
     react(),
     // Brotli + gzip 압축
@@ -29,18 +32,14 @@ export default defineConfig(({ mode }) => ({
         },
       },
     },
-    // 에셋 인라인 임계치 (4KB 이하 인라인)
     assetsInlineLimit: 4096,
-    // 청크 크기 경고 임계치
     chunkSizeWarningLimit: 200,
   },
 
-  // 환경 변수 접두사
   envPrefix: "VITE_",
 
-  // 개발 서버
   server: {
-    host: true, // 네트워크 접근 허용 (모바일 테스트)
+    host: true,
     port: 3000,
   },
 }));
